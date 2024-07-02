@@ -22,4 +22,4 @@ zinit light-mode for \
 ### End of Zinit's installer chunk
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
-[[ ! -f ~/.p10k.zsh ]] || source ~/.zsh.d/.p10k.zsh
+[[ ! -f ~/.zsh.d/.p10k.zsh ]] || source ~/.zsh.d/.p10k.zsh
